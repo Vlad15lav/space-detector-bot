@@ -1,0 +1,6 @@
+# pip install -U -r requirements.txt
+# torch
+numpy
+matplotlib
+Pillow==9.0.0
+pyTelegramBotAPI
